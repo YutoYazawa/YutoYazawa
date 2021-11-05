@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdc-Sirasera
+- 👋 Hi, I’m @YutoYazawa
 - 👀 I’m interested in C and Python.
 - 🌱 I’m currently learning C.
 
